@@ -1,4 +1,4 @@
-# KIM
+# 프로필
 
-h2
-asdfasdfasdfasdf
+세종대학교 졸업
+무용과 전공
