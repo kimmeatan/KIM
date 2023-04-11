@@ -1,6 +1,6 @@
 # 프로필
 
-- I . 기본정보
+- ## I . 기본정보
 - 이름: 김동욱
 - 이메일: happymandong@naver.com
 - 블로그:https://happymandong.tistory.com
